@@ -1,9 +1,9 @@
 //ตัวอย่างการสร้าง Class เเละ Field / Attribute
 
 //Employee.java
-public class Employee {													
+public class Employee {	
   private String id; //Attribute  
-	private String name; //Attribute
+  private String name; //Attribute
 	private Double salary; //Attribute
 }
 
