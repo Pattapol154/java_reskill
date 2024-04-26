@@ -5,10 +5,10 @@ public class Employee {
 	private String name; --Attribute
 	private Double salary; --Attribute
 }
-----------------------
-private,public = modifier
-String,double = data type
-id,name,salary = name
-----------------------
+
+//private,public = modifier
+//String,double = data type
+//id,name,salary = name
+
 
 
